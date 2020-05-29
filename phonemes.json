@@ -1,0 +1,497 @@
+{
+    "phonemes": [{
+            "type": "consonant",
+            "ipa_symbole": "b",
+            "graphemes": [
+                "b",
+                "bb"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "d",
+            "graphemes": [
+                "d",
+                "dd",
+                "ed"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "f",
+            "graphemes": [
+                "f",
+                "ff",
+                "ph",
+                "gh",
+                "lf",
+                "ft"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "g",
+            "graphemes": [
+                "g",
+                "gg",
+                "gh",
+                "gu",
+                "gue"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "h",
+            "graphemes": [
+                "h",
+                "wh"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "dʒ",
+            "graphemes": [
+                "j",
+                "ge",
+                "g",
+                "dge",
+                "di",
+                "gg"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "k",
+            "graphemes": [
+                "k",
+                "c",
+                "ch",
+                "cc",
+                "lk",
+                "qu",
+                "q(u)",
+                "ck",
+                "x"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "l",
+            "graphemes": [
+                "l",
+                "ll"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "m",
+            "graphemes": [
+                "m",
+                "mm",
+                "mb",
+                "mn",
+                "lm"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "n",
+            "graphemes": [
+                "n",
+                "nn",
+                "kn",
+                "gn",
+                "pn"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "p",
+            "graphemes": [
+                "p",
+                "pp"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "r",
+            "graphemes": [
+                "r",
+                "rr",
+                "wr",
+                "rh"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "s",
+            "graphemes": [
+                "s",
+                "ss",
+                "c",
+                "sc",
+                "ps",
+                "st",
+                "ce",
+                "se"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "t",
+            "graphemes": [
+                "t",
+                "tt",
+                "th",
+                "ed"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "v",
+            "graphemes": [
+                "v",
+                "f",
+                "ph",
+                "ve"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "w",
+            "graphemes": [
+                "w",
+                "wh",
+                "u",
+                "o"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "z",
+            "graphemes": [
+                "z",
+                "zz",
+                "s",
+                "ss",
+                "x",
+                "ze",
+                "se"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "ʒ",
+            "graphemes": [
+                "s",
+                "si",
+                "z"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "tʃ",
+            "graphemes": [
+                "ch",
+                "tch",
+                "tu",
+                "ti",
+                "te"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "ʃ",
+            "graphemes": [
+                "sh",
+                "ce",
+                "s",
+                "ci",
+                "si",
+                "ch",
+                "sci",
+                "si"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "θ",
+            "graphemes": [
+                "th"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "ð",
+            "graphemes": [
+                "th"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "ŋ",
+            "graphemes": [
+                "ng",
+                "n",
+                "ngue"
+            ]
+        },
+        {
+            "type": "consonant",
+            "ipa_symbole": "j",
+            "graphemes": [
+                "y",
+                "i",
+                "j"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "æ",
+            "graphemes": [
+                "a",
+                "ai",
+                "au"
+
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "eɪ",
+            "graphemes": [
+                "a",
+                "ai",
+                "eigh",
+                "aigh",
+                "ay",
+                "er",
+                "et",
+                "ei",
+                "au",
+                "a_e",
+                "ea",
+                "ey"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "d",
+            "graphemes": [
+                "e",
+                "ea",
+                "u",
+                "ie",
+                "ai",
+                "a",
+                "eo",
+                "ei",
+                "ae"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "i:",
+            "graphemes": [
+                "e",
+                "ee",
+                "ea",
+                "y",
+                "ey",
+                "oe",
+                "ie",
+                "i",
+                "ei",
+                "eo",
+                "ay"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ɪ",
+            "graphemes": [
+                "i",
+                "e",
+                "o",
+                "u",
+                "ui",
+                "y",
+                "ie"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "aɪ",
+            "graphemes": [
+                "i",
+                "y",
+                "igh",
+                "ie",
+                "uy",
+                "ye",
+                "ai",
+                "is",
+                "eigh",
+                "i_e"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ɒ",
+            "graphemes": [
+                "a",
+                "ho",
+                "au",
+                "aw",
+                "ough"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "oʊ",
+            "graphemes": [
+                "o",
+                "oa",
+                "o_e",
+                "oe",
+                "ow",
+                "ough",
+                "eau",
+                "oo",
+                "ew"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ʊ",
+            "graphemes": [
+                "o",
+                "oo",
+                "u",
+                "ou"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ʌ",
+            "graphemes": [
+                "u",
+                "o",
+                "oo",
+                "ou"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "u:",
+            "graphemes": [
+                "o",
+                "oo",
+                "ew",
+                "ue",
+                "u_e",
+                "oe",
+                "ough",
+                "ui",
+                "oew",
+                "ou"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ɔɪ",
+            "graphemes": [
+                "oi",
+                "oy",
+                "uoy"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "aʊ",
+            "graphemes": [
+                "ow",
+                "ou",
+                "ough"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ə",
+            "graphemes": [
+                "a",
+                "er",
+                "i",
+                "ar",
+                "our",
+                "ur"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "eəʳ",
+            "graphemes": [
+                "air",
+                "are",
+                "ear",
+                "ere",
+                "eir",
+                "ayer"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ɑ:",
+            "graphemes": [
+                "a"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ɜ:ʳ",
+            "graphemes": [
+                "ir",
+                "er",
+                "ur",
+                "ear",
+                "or",
+                "our",
+                "yr"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ɔ:",
+            "graphemes": [
+                "aw",
+                "a",
+                "or",
+                "oor",
+                "ore",
+                "oar",
+                "our",
+                "augh",
+                "ar",
+                "ough",
+                "au"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ɪəʳ",
+            "graphemes": [
+                "ear",
+                "eer",
+                "ere",
+                "ier"
+            ]
+        },
+        {
+            "type": "vowel",
+            "ipa_symbole": "ʊəʳ",
+            "graphemes": [
+                "ure",
+                "our"
+            ]
+        }
+    ]
+}
